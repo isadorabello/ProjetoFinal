@@ -16,7 +16,7 @@ class AppWidget extends StatelessWidget {
       initialRoute: "/imc",
       routes: {
         "/imc": (context) => const IMCPage(),
-        "/tmb": (context) => const IMCPage(),
+        "/tmb": (context) => const TMBPage(),
       },
     );
   }
