@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:projeto_c214/controller/imc.dart';
-import 'package:projeto_c214/controller/menu.dart';
+import 'package:projeto_final/controller/imc.dart';
+import 'package:projeto_final/controller/menu.dart';
 
 class IMCPage extends StatefulWidget {
   const IMCPage({Key? key}) : super(key: key);
