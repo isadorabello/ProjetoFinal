@@ -80,4 +80,12 @@ void main() {
 
     expect(aux, 1.9);
   });
+
+  test('Verifica a classificação da taxa -> Atividade inexistente', () {
+    TMB tmb = TMB();
+    tmb.atv = 5;
+    double aux = tmb.classificar();
+
+    expect(aux, 0);
+  });
 }

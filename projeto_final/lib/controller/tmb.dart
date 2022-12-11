@@ -39,9 +39,11 @@ class TMB {
     } else if (atv == 3) {
       //altamente ativo
       return 1.725;
-    } else {
+    } else if (atv == 4) {
       //extremamente ativo
       return 1.9;
+    } else {
+      return 0;
     }
   }
 }

@@ -10,7 +10,9 @@ class IMC {
   }
 
   String classifica() {
-    if (imc < 18.6) {
+    if (imc <= 0) {
+      return 'Entradas invalidas';
+    } else if (imc < 18.6) {
       return 'Abaixo do Peso';
     } else if (imc >= 18.6 && imc < 24.9) {
       return 'Peso Ideal';
@@ -24,5 +26,4 @@ class IMC {
       return 'Obesidade Grau III';
     }
   }
-  
 }

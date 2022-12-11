@@ -47,4 +47,14 @@ void main() {
 
     expect(aux, 'Abaixo do Peso');
   });
+
+  test('Teste de entrada invalida', () {
+    IMC imc = IMC();
+    imc.altura = -173;
+    imc.peso = -45;
+    imc.calculo();
+    String aux = imc.res;
+
+    expect(aux, 'Entradas invalidas');
+  });
 }
