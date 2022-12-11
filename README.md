@@ -10,7 +10,7 @@ Este projeto tem como intuito de realizar calculo de IMC e de TMB.
 
 - TMB é a sigla para  taxa metabólica basal, é a quantidade de energia necessária para a manutenção das funções vitais do organismo ao longo de 24 horas. Ela é medida em calorias, que é a energia extraída pelo nosso corpo a partir dos macronutrientes (carboidratos, proteínas e gorduras totais).
 
-Porém lembre-se, o calculo é apenas uma estimativa, para entender melhor como anda sua saúde, sempre consulte um(a) médico(a).
+Porém lembre-se, os calculos são apenas uma estimativa, para entender melhor como anda a sua saúde, é sempre recomendado que consulte um(a) médico(a).
 
 ## 2 - Como o usuário pode utilizar :desktop_computer:
 É necessário baixar e instalar no sistema operacional utilizado, o Android Studio, Flutter SDK e a IDE VS Code.
