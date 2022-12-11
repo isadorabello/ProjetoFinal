@@ -1,7 +1,7 @@
-# Score_AG002
+# Calcula Saúde
 ## 1 - Descrição do projeto :four_leaf_clover:
 
-
+Este projeto tem como intuito de realizar calculo de IMC e de TMB.
 
 ## 2 - Como o usuário pode utilizar :desktop_computer:
 É necessário baixar e instalar no sistema operacional utilizado, o Android Studio, Flutter SDK e a IDE VS Code.
