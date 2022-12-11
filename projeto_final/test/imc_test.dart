@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:projeto_c214/controller/imc.dart';
+import 'package:projeto_final/controller/imc.dart';
 
 void main() {
   double alt = 173;
