@@ -1,3 +1,6 @@
+[![CI](https://github.com/isadorabello/ProjetoFinal/actions/workflows/dart.yml/badge.svg)](https://github.com/isadorabello/ProjetoFinal/actions/workflows/dart.yml)
+
+
 # Calcula Saúde
 ## 1 - Descrição do projeto :four_leaf_clover:
 
